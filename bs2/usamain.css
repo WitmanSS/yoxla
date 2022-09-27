@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+   background-image: url(./site_theme_winged_lions_israel_aircraft_v1.jpg);
+}
+#flex{
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    background-color: rgb(55, 55, 55);
+}
+#cards{
+     color: aliceblue;
+     display: flex;
+     flex-direction: row;
+}
